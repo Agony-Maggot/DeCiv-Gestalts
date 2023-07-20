@@ -1,0 +1,48 @@
+
+	// Nations
+	{
+		"name": "F.E.V. Hive",
+		"leaderName": "Biox Speaker",
+		"adjective": ["Hive"],
+		"startBias": ["Wasteland"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Hive Conciousness",
+
+		"startIntroPart1": "''",
+		"startIntroPart2": "''",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 165, 0],
+		"style": "",
+		"uniqueName": "Determination",
+		"uniques": [
+			"[{non-air} {Military}] units gain the [F.E.V.] promotion",
+			"[+15]% Strength <for [{Wounded} {Ranged}] units> <when attacking>",
+			"[+15]% Strength <for [{Wounded} {Melee}] units>  <when defending>",
+			"[+1] Sight <for [{Wounded} {Scout}] units> ",
+			"Cannot build [Enslaved] units"
+		],
+		"cities": [
+			"Hope",
+			"Eastcity",
+			"Newbay",
+			"Ballenderg",
+			"San Lourn",
+			"Drimere",
+			"Highnimon",
+			"Inford",
+			"Melderk",
+			"Thallas",
+			"Nedaleck",
+			"Douridas Pier",
+			"Silverman Port",
+			"Dalbete",
+			"Light Otis",
+			"Meckenberg"
